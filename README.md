@@ -1,0 +1,3 @@
+<h1>- Cracked Rust Server Creator -</h1>
+<h3>(The functionallity of this is not complete yet) When you want to create a server click the "download" button. This will install steam command and a rust template file. All code provided including the patch, feel free to edit to make it more efficent or add more features</h3>
+<h3>To actually patch the server for cracked clients you must click the "crack" button. This MUST be done AFTER installing steam command and the server and it WILL require you to first click the "update" button to get the newest rust version. The server will also be allowed to remove the crack by clicking the "remove crack" button</h3>
